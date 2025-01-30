@@ -8,4 +8,3 @@
 3. **Task Reminders & Progress Tracker**: Add tasks, set reminders, and track study progress with graphs and achievement badges.
 4. **Notes, Resources & Support**: Upload notes, save study materials, receive AI-generated study tips, and access community discussions or support.
 
-Additional features like premium options (ad-free, advanced analytics) can be included if monetized.
